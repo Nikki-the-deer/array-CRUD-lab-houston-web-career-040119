@@ -1,13 +1,14 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  guns = ["glock", "AR-15", "AK-47", "Moist Nugget"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  []
+  push.element 
 end
 
 def add_element_to_start_of_array(array, element)
